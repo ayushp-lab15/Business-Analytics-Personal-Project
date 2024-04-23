@@ -30,6 +30,12 @@ The dashboard provides a comprehensive overview of sales and profit data for var
 
 - **Customization:** The dashboard can be customized to meet the specific needs of users, with options to add additional metrics, filters, or visualizations as required.
 
+![image](https://github.com/ayushp-lab15/Business-Analytics-Personal-Project/assets/54169791/389e7db1-cad2-476b-8727-55ba69ed327b)
+
+![image](https://github.com/ayushp-lab15/Business-Analytics-Personal-Project/assets/54169791/c2bfe325-4119-4148-bede-7a9de96a345d)
+
+
+
 **Conclusion:**
 
 In conclusion, the dashboard provides a comprehensive and user-friendly platform for analyzing sales and profit data for multiple companies. By leveraging the power of pivot tables and visualizations, it enables users to gain valuable insights and make data-driven decisions with confidence.
